@@ -1,4 +1,4 @@
-# React With Yooutube API
+# React With Youtube API
 
 React Application using Youtube API
 
